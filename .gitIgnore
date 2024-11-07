@@ -1,0 +1,73 @@
+compraYa-back/HELP.md
+compraYa-back/target/
+compraYa-back/!.mvn/wrapper/maven-wrapper.jar
+compraYa-back/!**/src/main/**/target/
+compraYa-back/!**/src/test/**/target/
+
+### STS ###
+compraYa-back/.apt_generated
+compraYa-back/.classpath
+compraYa-back/.factorypath
+compraYa-back/.project
+compraYa-back/.settings
+compraYa-back/.springBeans
+compraYa-back/.sts4-cache
+
+### IntelliJ IDEA ###
+compraYa-back/.idea
+compraYa-back/*.iws
+compraYa-back/*.iml
+compraYa-back/*.ipr
+
+### NetBeans ###
+compraYa-back//nbproject/private/
+compraYa-back//nbbuild/
+compraYa-back//dist/
+compraYa-back//nbdist/
+compraYa-back//.nb-gradle/
+compraYa-back/build/
+compraYa-back/!**/src/main/**/build/
+compraYa-back/!**/src/test/**/build/
+
+### VS Code ###
+compraYa-back/.vscode/
+
+
+compraYa-back/mvnw text eol=lf
+compraYa-back/*.cmd text eol=crlf
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+compraYa-front/node_modules/
+
+# Expo
+compraYa-front/.expo/
+compraYa-front/dist/
+compraYa-front/web-build/
+
+# Native
+compraYa-front/*.orig.*
+compraYa-front/*.jks
+compraYa-front/*.p8
+compraYa-front/*.p12
+compraYa-front/*.key
+compraYa-front/*.mobileprovision
+
+# Metro
+compraYa-front/.metro-health-check*
+
+# debug
+compraYa-front/npm-debug.*
+compraYa-front/yarn-debug.*
+compraYa-front/yarn-error.*
+
+# macOS
+compraYa-front/.DS_Store
+compraYa-front/*.pem
+
+# local env files
+compraYa-front/.env*.local
+
+# typescript
+compraYa-front/*.tsbuildinfo
